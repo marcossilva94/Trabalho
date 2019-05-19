@@ -26,10 +26,9 @@
        <transition name="moveInUp">
          <router-view/>
        </transition>
-        
       </div>
       
-     <footer class="card-footer bg-transparent border-warning">Copyright@ Salles Henrique 2019 <cite title="Source Title"></cite>
+     <footer class="card-footer bg-transparent border-warning">Copyright@ Salles Henrique<cite title="Source Title"></cite>
      </footer>
     
   </div>
